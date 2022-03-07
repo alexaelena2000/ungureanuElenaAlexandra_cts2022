@@ -1,9 +1,9 @@
 package ro.ase.dice.clase;
 
-public abstract class Animal {
+public class IngreijitorZOO {
     private String nume;
 
-    public Animal(String nume) {
+    public IngreijitorZOO(String nume) {
         this.nume = nume;
     }
 
@@ -15,5 +15,7 @@ public abstract class Animal {
         this.nume = nume;
     }
 
-    public abstract void manancaAnimal(String mancare);
+    public void hranesteAnimal(Animal animal, String mancare){
+        animal.manancaAnimal(mancare);
+    }
 }

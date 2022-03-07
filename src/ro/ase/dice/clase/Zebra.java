@@ -6,7 +6,7 @@ public class Zebra extends Animal{
     }
 
     @Override
-    public void mananca(String mancare) {
-        System.out.println("Zebra " + this.getNume()+ " mananca " + mancare);
+    public void manancaAnimal(String mancare) {
+        System.out.println("Zebra" + this.getNume() + "mananca" + mancare);
     }
 }

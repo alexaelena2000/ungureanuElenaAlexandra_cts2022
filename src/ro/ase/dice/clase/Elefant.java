@@ -6,7 +6,8 @@ public class Elefant extends Animal{
     }
 
     @Override
-    public void mananca(String mancare) {
-        System.out.println("Elefanul " + this.getNume()+ " mananca " + mancare);
+    public void manancaAnimal(String mancare) {
+        System.out.println("Elefantul" + this.getNume() + "mananca" + mancare);
+
     }
 }
