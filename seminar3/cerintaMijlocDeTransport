@@ -1,0 +1,5 @@
+Companie de transport in comun - STB.
+
+Trebuie implementat un modul care sa creeze obiecte de tipul MijlocTransport: Autobuz, Tramvai, Troleibuz.
+Modul trebuie sa ajute la creearea de obiecte din familia de clase MijlocTransport.
+Tipurile de transport sunt salvate intr-un Enum{Autobuz, Tramvai, Troleibuz}.
