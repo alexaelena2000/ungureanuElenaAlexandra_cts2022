@@ -5,8 +5,6 @@ import ro.ase.dice.clase.IngreijitorZOO;
 import ro.ase.dice.clase.ZOO;
 import ro.ase.dice.clase.Zebra;
 
-import java.util.List;
-
 public class Main {
 
     public static void main(String[] args) {

@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cts_seminar.iml" filepath="$PROJECT_DIR$/cts_seminar.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar3/seminar3.iml" filepath="$PROJECT_DIR$/seminar3/seminar3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar4_Builder/seminar4_Builder.iml" filepath="$PROJECT_DIR$/seminar4_Builder/seminar4_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar4_Prototype/seminar4_Prototype.iml" filepath="$PROJECT_DIR$/seminar4_Prototype/seminar4_Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar4_factoryMethod/seminar4_factoryMethod.iml" filepath="$PROJECT_DIR$/seminar4_factoryMethod/seminar4_factoryMethod.iml" />
     </modules>
   </component>
 </project>
