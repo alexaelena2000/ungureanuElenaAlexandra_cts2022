@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/seminar4_Builder/seminar4_Builder.iml" filepath="$PROJECT_DIR$/seminar4_Builder/seminar4_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar4_Prototype/seminar4_Prototype.iml" filepath="$PROJECT_DIR$/seminar4_Prototype/seminar4_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar4_factoryMethod/seminar4_factoryMethod.iml" filepath="$PROJECT_DIR$/seminar4_factoryMethod/seminar4_factoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5_Adapter/seminar5_Adapter.iml" filepath="$PROJECT_DIR$/seminar5_Adapter/seminar5_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5_AdapterClase/seminar5_AdapterClase.iml" filepath="$PROJECT_DIR$/seminar5_AdapterClase/seminar5_AdapterClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5_Facade/seminar5_Facade.iml" filepath="$PROJECT_DIR$/seminar5_Facade/seminar5_Facade.iml" />
     </modules>
   </component>
 </project>
