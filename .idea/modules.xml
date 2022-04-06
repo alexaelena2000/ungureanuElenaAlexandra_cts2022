@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/seminar5_Adapter/seminar5_Adapter.iml" filepath="$PROJECT_DIR$/seminar5_Adapter/seminar5_Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar5_AdapterClase/seminar5_AdapterClase.iml" filepath="$PROJECT_DIR$/seminar5_AdapterClase/seminar5_AdapterClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar5_Facade/seminar5_Facade.iml" filepath="$PROJECT_DIR$/seminar5_Facade/seminar5_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6_Composite/seminar6_Composite.iml" filepath="$PROJECT_DIR$/seminar6_Composite/seminar6_Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6_Decorator/seminar6_Decorator.iml" filepath="$PROJECT_DIR$/seminar6_Decorator/seminar6_Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6_Proxy/seminar6_Proxy.iml" filepath="$PROJECT_DIR$/seminar6_Proxy/seminar6_Proxy.iml" />
     </modules>
   </component>
 </project>
