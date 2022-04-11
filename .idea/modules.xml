@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/seminar6_Composite/seminar6_Composite.iml" filepath="$PROJECT_DIR$/seminar6_Composite/seminar6_Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar6_Decorator/seminar6_Decorator.iml" filepath="$PROJECT_DIR$/seminar6_Decorator/seminar6_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar6_Proxy/seminar6_Proxy.iml" filepath="$PROJECT_DIR$/seminar6_Proxy/seminar6_Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar7_Flyweight/seminar7_Flyweight.iml" filepath="$PROJECT_DIR$/seminar7_Flyweight/seminar7_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar7_Observer/seminar7_Observer.iml" filepath="$PROJECT_DIR$/seminar7_Observer/seminar7_Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar7_Strategy/seminar7_Strategy.iml" filepath="$PROJECT_DIR$/seminar7_Strategy/seminar7_Strategy.iml" />
     </modules>
   </component>
 </project>
