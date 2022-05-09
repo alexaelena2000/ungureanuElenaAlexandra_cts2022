@@ -17,6 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/seminar7_Flyweight/seminar7_Flyweight.iml" filepath="$PROJECT_DIR$/seminar7_Flyweight/seminar7_Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar7_Observer/seminar7_Observer.iml" filepath="$PROJECT_DIR$/seminar7_Observer/seminar7_Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar7_Strategy/seminar7_Strategy.iml" filepath="$PROJECT_DIR$/seminar7_Strategy/seminar7_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar8_Chain/seminar8_Chain.iml" filepath="$PROJECT_DIR$/seminar8_Chain/seminar8_Chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar8_Memento/seminar8_Memento.iml" filepath="$PROJECT_DIR$/seminar8_Memento/seminar8_Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar9_Template/seminar9_Template.iml" filepath="$PROJECT_DIR$/seminar9_Template/seminar9_Template.iml" />
     </modules>
   </component>
 </project>
